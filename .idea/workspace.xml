@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3598bdb3-50d4-4d95-a1d5-74ba1500e43d" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/htmlprojectversionalpha001/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/htmlprojectversionalpha001/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/migrations/0002_alter_advertisment_table.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690877960581</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1690888040634</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690888040634</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
