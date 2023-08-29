@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3598bdb3-50d4-4d95-a1d5-74ba1500e43d" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/app_advert/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/htmlprojectversionalpha001/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/htmlprojectversionalpha001/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/htmlprojectversionalpha001/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/htmlprojectversionalpha001/htmlprojectversionalpha001/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/advertisement-post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/advertisement.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/profile.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/register.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/htmlprojectversionalpha001/templates/top-sellers.html" beforeDir="false" />
-    </list>
+    <list default="true" id="3598bdb3-50d4-4d95-a1d5-74ba1500e43d" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692103347778</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1693308366873</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693308366873</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
